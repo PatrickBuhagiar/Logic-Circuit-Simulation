@@ -1,0 +1,1 @@
+This was a simple assignment to create circuit simulator as part of the Object Oriented Programming study unit. The main intention was to familiarise with the concept of interfaces. 
